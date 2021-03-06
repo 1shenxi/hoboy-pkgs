@@ -1,0 +1,7 @@
+node_modules
+
+# 生产目录
+lib
+
+# log
+lerna-debug.log
