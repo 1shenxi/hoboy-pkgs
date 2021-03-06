@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "shenxi <dragon.jinghan.liu@gmail.com>",
+  "description": "A collection of packages for myself",
+  "homepage": "https://github.com/1shenxi/hoboy-pkgs",
   "scripts": {
     "i": "sh scripts/lerna/add.sh",
     "build": "lerna run build",
